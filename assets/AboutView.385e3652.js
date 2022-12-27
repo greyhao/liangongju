@@ -1,0 +1,1 @@
+import{_ as t,o,c as a,a as s,N as c,b as n,aa as r}from"./index.fe483d7e.js";import{E as _}from"./el-button.3fca4ebd.js";import"./index.256b0519.js";const i={},u={class:"about"},l=n("h1",null,"This is an about page",-1);function d(f,p){const e=_;return o(),a("div",u,[l,s(e,{type:"success"},{default:c(()=>[r("Default")]),_:1})])}const x=t(i,[["render",d]]);export{x as default};
